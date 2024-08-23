@@ -1,0 +1,2 @@
+/ticket.pkpass
+  Content-Type: application/vnd.apple.pkpass
